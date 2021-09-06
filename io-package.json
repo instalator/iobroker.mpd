@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "mpd",
-    "version": "1.0.6",
+    "version": "2.0.0",
     "news": {
       "1.0.6": {
         "en": "Increase timeout for SayIt to allow playing files longer than 10 secs",
