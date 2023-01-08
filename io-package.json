@@ -1082,7 +1082,7 @@
       "common": {
         "role": "media.seek",
         "name": "Controlling playback seek",
-        "type": "number",
+        "type": "string",
         "unit": "%",
         "min": 0,
         "max": 100,
@@ -1294,7 +1294,7 @@
       "type": "state",
       "common": {
         "name": "elapsed",
-        "type": "number",
+        "type": "string",
         "role": "media.elapsed"
       },
       "native": {}
